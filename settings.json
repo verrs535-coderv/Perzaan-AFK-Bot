@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "SenpaiSpider",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "SENPAISPIDER",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "GOJOYT.aternos.me",
+    "port": 49227,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "GOJO"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,8 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "ARE YOU SOO NOOB ",
+        "GG DOSTO!"
       ]
     },
     "chat-log": true,
